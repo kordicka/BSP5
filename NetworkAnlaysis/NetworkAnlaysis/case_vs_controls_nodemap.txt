@@ -1,0 +1,209 @@
+4.1N	Epb41l1
+5T4	Tpbg
+ALK-2	Acvr1
+AMDHD2	Amdhd2
+AMH type II receptor	Amhr2
+APG16L1	Atg16l1
+ARHGAP25	Arhgap25
+ARHGEF2	Arhgef2
+ARMET	Manf
+Activin beta A	Inhba
+Anastellin	Fn1
+Angiopoietin 2	Angpt2
+Annexin IV	Anxa4
+BTEB1	Klf9
+BZW1	Bzw1
+Beta crystallin A2	Cryba2
+Beta-2 adrenergic receptor	Adrb2
+Beta-adaptin 2	Ap2b1
+Bles03	Bles03
+C17orf108	Lyrm9
+C1qRp	Cd93
+C9orf100	Arhgef39
+CACNB4	Cacnb4
+CD24	Cd24
+CDK5	Cdk5
+CHSS2	Chpf
+CIRBP	Cirbp
+COX-2 (PTGS2)	Ptgs2
+CRELD2	Creld2
+CREM (activators)	Crem
+CREM (repressors)	Crem
+CRM1	Xpo1
+CRY1	Cry1
+CSTF3	Cstf3
+Calcipressin 2	Rcan2
+Calreticulin	Calr
+Carbonic anhydrase XII	Car12
+Cathepsin V	Ctsl
+Connexin 30	Gjb6
+Contactin 2	Cntn2
+DIP2C	Dip2c
+DMKN	Dmkn
+DNAJB11	Dnajb11
+DNAJB5	Dnajb5
+DNAJC3	Dnajc3
+DUSP11	Dusp11
+DUSP26	Dusp26
+DYN-A(1-17)	Pdyn
+Dynorphin A(1-13)	Pdyn
+ELOVL2	Elovl2
+EMP1 (Tmp)	Emp1
+EMX2	Emx2
+ERK1 (MAPK3)	Mapk3
+EXO70	Exoc7
+Endoplasmin	Hsp90b1
+FAM108C1	Abhd17c
+FAM5C	Brinp3
+FAT3	Fat3
+FBXL3	Fbxl3
+FIBP	Fibp
+FKBP5	Fkbp5
+FRMD3	Frmd3
+FZD8	Fzd8
+Fibrillarin	Fbl
+Fibronectin	Fn1
+Fructosamine-3-kinase	Fn3k
+Fv1	Fv1
+G3PT	Gapdhs
+GADD45 alpha	Gadd45a
+GALGT	B4galnt1
+GBL	Mlst8
+GEFT	Arhgef25
+GFG-1	Nudt6
+GIPC2	Gipc2
+GPATCH4	Gpatch4
+GRP78	Hspa5
+HARI	Arih1
+HEM2	Alad
+HIP	Hhip
+HSD3B7	Hsd3b7
+HSF2BP	Hsf2bp
+HTR1B	Htr1b
+Hdj-2	Dnaja1
+Hsc20	Hscb
+IFNGR2	Ifngr2
+IPP-1	Ppp1r1a
+IRF1	Irf1
+ISYNA1	Isyna1
+ITGA7	Itga7
+ITK	Itk
+KCNJ14	Kcnj14
+KLF15	Klf15
+KLHL29	Klhl29
+KV1.5	Kcna5
+Kv9.2	Kcns2
+LAGY	Hopx
+LMO1	Lmo1
+LUC7B1	Luc7l
+Lysyl oxidase	Lox
+MA1A2	Man1a2
+MAP4	Map4
+MATK	Matk
+MEK6(MAP2K6)	Map2k6
+MGST2	Mgst2
+MKLP1	Kif23
+MKP6	Dusp14
+MLP	Marcksl1
+MTERFD3	Mterf2
+Max	Max
+Mcl-1	Mcl1
+Muskelin	Mkln1
+NARS2	Nars2
+NEURL2	Neurl2
+NFKBIA	Nfkbia
+NIPA2	Nipa2
+NUDT14	Nudt14
+Nelin	Nexn
+Neurokinin A	Tac1
+Neuromedin U	Nmu
+Neuropeptide K	Tac1
+Neuropeptide gamma	Tac1
+Norrin	Ndp
+OGFOD1	Ogfod1
+OMgp	Omg
+Orexin receptor 1	Hcrtr1
+P4HA1	P4ha1
+PCIF1	Pcif1
+PDCD11	Pdcd11
+PDE9A	Pde9a
+PDIA3	Pdia3
+PDP1	Pdp1
+PEDF-R (iPLA2-zeta)	Pnpla2
+PEX14	Pex14
+PEX5R	Pex5l
+PHF1	Phf1
+PIK3IP1	Pik3ip1
+PLA1A	Pla1a
+PLEKHF1	Plekhf1
+PMEPA1	Pmepa1
+PMP34	Slc25a17
+PPAR-beta(delta)	Ppard
+PRG4	Prg4
+PRSS11 (HtrA1)	Htra1
+PTEN	Pten
+Pleckstrin-2	Plek2
+Proenkephalin-B	Pdyn
+RBM11	Rbm11
+REV-ERBalpha	Nr1d1
+RFC3	Rfc3
+RNF145	Rnf145
+RUTBC3	Sgsm3
+Reelin	Reln
+SALL2	Sall2
+SAP97 (DLG1)	Dlg1
+SGK1	Sgk1
+SIDT2	Sidt2
+SLC25A46	Slc25a46
+SLC38A2	Slc38a2
+STAC3	Stac3
+STIM2	Stim2
+SURF1	Surf1
+SV2C	Sv2c
+Secretogranin II	Scg2
+Substance P	Tac1
+Substance P extracellular region	Tac1
+Syntrophin gamma 2	Sntg2
+TAGLN2	Tagln2
+TBC1D14	Tbc1d14
+TCEAL1	Tceal1
+TGF-beta 1	Tgfb1
+TIEG1	Klf10
+TIMP1	Timp1
+TM4SF9	Tspan5
+TMEM106C	Tmem106c
+TMEM150	Tmem150a
+TMEM16D	Ano4
+TMEM199	Tmem199
+TMEM33	Tmem33
+TNIK	Tnik
+TOB2	Tob2
+TOP1	Top1
+TRIB2	Trib2
+TRM61	Trmt61a
+TSPYL4	Tspyl4
+TUSC4	Nprl2
+TXNRD3	Txnrd3
+Thyroliberin	Trh
+Tubulin beta 6	Tubb6
+UBADC1	Ubac1
+UBE2Q	Ube2q1
+UBFD1	Ubfd1
+UDP	Upp1
+URKL1	Uckl1
+USP30	Usp30
+Ubiquilin-1	Ubqln1
+VEGF-A	Vegfa
+VGF	Vgf
+VHL	Vhl
+VKORC1L1	Vkorc1l1
+WFDC1	Wfdc1
+WFS1	Wfs1
+XBP1	Xbp1
+ZBTB22	Zbtb22
+ZNF532	Zfp532
+ZNF593	Zfp593
+Zibra	Rnf31
+c-FLIP	Cflar
+cytochrome P-450 reductase	Por
+eIF2C2 (Argonaute-2)	Ago2

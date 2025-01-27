@@ -1,0 +1,5 @@
+EGR1	-->	KLF4
+EPAS1	-->	VIM
+KLF4	-->	EGR1
+KLF4	-->	EPAS1
+KLF4	--|	VIM

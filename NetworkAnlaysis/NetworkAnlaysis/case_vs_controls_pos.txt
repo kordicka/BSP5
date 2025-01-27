@@ -1,0 +1,4 @@
+IRF1 -> MAX -> CRY1
+IRF1 -> MAX -> CRY1 -> MAP4
+IRF1 -> MAP4
+CRY1 -> MAX

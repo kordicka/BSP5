@@ -1,0 +1,10 @@
+EGR1	-->	KLF4
+EPAS1	--?	Vimentin
+KLF4	--?	PTP4A2
+KLF4	--?	EPAS1
+KLF4	--?	SFRS18
+KLF4	--|	Vimentin
+KLF4	--?	ITGB5
+KLF4	--?	LAPTm5
+KLF4	--?	EGR1
+EGR1	-->	CCR5

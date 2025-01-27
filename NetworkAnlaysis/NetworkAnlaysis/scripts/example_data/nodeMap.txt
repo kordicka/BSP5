@@ -1,0 +1,13 @@
+CCR5	Ccr5
+Carbonic anhydrase II	Car2
+Cathepsin S	Ctss
+Cytohesin4	Cyth4
+DHPR	Qdpr
+EGR1	Egr1
+EPAS1	Epas1
+ITGB5	Itgb5
+KLF4	Klf4
+LAPTm5	Laptm5
+PTP4A2	Ptp4a2
+SFRS18	Pnisr
+Vimentin	Vim
